@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309092224668-6b646jl3ug2rc99nk1pjoc1n71gsjrbc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309092224668-6b646jl3ug2rc99nk1pjoc1n71gsjrbc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>309092224668-smvlrrh2nbu8031gqijiu338rhjd3omo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcrYd50Cdb2NL2c-pdv6CX6AY53sMDeDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309092224668</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ergo.notch.paymztest</string>
+	<key>PROJECT_ID</key>
+	<string>pmz-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pmz-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309092224668:ios:18032486264a606d33a759</string>
+	<key>DATABASE_URL</key>
+	<string>https://pmz-project.firebaseio.com</string>
+</dict>
+</plist>

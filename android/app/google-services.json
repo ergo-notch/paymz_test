@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309092224668",
+    "firebase_url": "https://pmz-project.firebaseio.com",
+    "project_id": "pmz-project",
+    "storage_bucket": "pmz-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309092224668:android:dd1c23e241c3235d33a759",
+        "android_client_info": {
+          "package_name": "com.ergo.notch.paymztest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309092224668-ql4a168e3kmli1qlr0hvcjrfahavhglj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKp95Qfb1M2jhj7BNqAUSz1dpoVDwVpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309092224668-ql4a168e3kmli1qlr0hvcjrfahavhglj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
